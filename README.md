@@ -1,35 +1,19 @@
 # Cybersecurity Learning
 
-My hands-on cybersecurity learning journey.
+This repository contains the cybersecurity concepts and tools I am learning through courses, TryHackMe rooms, CTFs and hands-on practice.
 
-This repository contains my notes, practical experiments, tools, CTF learning, and security concepts.
+I am currently focusing on Linux, networking, Python, reconnaissance, web security and security tools.
 
-## Areas I'm Learning
+I use Kali Linux for most of my practical work and try to understand the concepts by actually practicing them instead of only reading about them.
 
-- Linux & Command Line
-- Computer Networking
-- Python for Cybersecurity
-- Web Security
-- Security Tools
-- CTFs & Hands-on Labs
-- Reconnaissance
-- Offensive Security Fundamentals
+Topics I am currently learning:
 
-## Tools
-
-- Nmap
-- Burp Suite
-- Wireshark
-- CyberChef
-- Netcat
-- Kali Linux
-- TryHackMe
-- HackTheBox
-
-## Learning Approach
-
-I focus on understanding concepts through hands-on labs, CTF challenges, and practical experiments in authorized environments.
-
-## Goal
-
-To build strong practical cybersecurity skills and pursue a career in cybersecurity, with a focus on offensive security and red teaming.
+Linux  
+Networking  
+Python for Cybersecurity  
+Reconnaissance  
+Web Security  
+Security Tools  
+OSINT  
+CTF Practice  
+Malware Analysis
